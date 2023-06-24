@@ -1,0 +1,33 @@
+.container{
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+}
+h1{ 
+
+    color:rgb(22, 22, 208);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 10px; 
+}
+img.tocat{
+    height: 200px;   
+}
+.row {
+    display: flex;
+    background-color: rgb(38, 38, 251);
+    justify-content: space-evenly;
+    margin: 20px 20px;
+    padding: 20px 20px;  
+}
+.inspirationImages{
+    background-color: rgb(19, 25, 140);
+    justify-content: space-evenly;
+
+  } 
+.favCharImages{
+    background-color: rgb(32, 128, 254); 
+    justify-content: space-evenly;
+    }
